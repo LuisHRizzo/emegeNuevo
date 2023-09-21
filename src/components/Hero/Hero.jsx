@@ -10,12 +10,10 @@ import Logo from '../navbar/logo_emege.png'
 const Hero = () => {
   return (
     <>
-    <Container>
+    <Container className='mb-5 mt-5'>
       <Row className='d-flex flex-reverse'>
         <Col xs={12} md={4} className='d-flex flex-column justify-content-center align-items-center'>
-          <div className='d-flex flex-column justify-content-center align-items-center just'>
-            <h1>EMEGE GROUP SRL</h1>
-          </div>
+          <h1>EMEGE GROUP SRL</h1>          
           <h3>Traemos SOLUCIONES</h3>
           <h5>Contanos como podemos ayudarte</h5>
           <Anchor to='/contacto'>
