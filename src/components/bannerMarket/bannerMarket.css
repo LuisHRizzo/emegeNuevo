@@ -1,0 +1,7 @@
+Anchor:visited, Anchor:link, Anchor:active{
+    text-decoration:none;
+}
+.cardTitleName{
+    color: black !important;
+    font-weight: bold;
+}

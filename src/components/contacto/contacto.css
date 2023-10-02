@@ -1,0 +1,28 @@
+.contacto{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 2em auto;
+    background-color: lightgray;
+}
+.tituloContacto{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 500;
+    font-size: 48px;
+
+}
+.form{
+    margin: 2em auto ;
+    min-width: 80%;
+}
+.innerForm{
+    margin: 2em auto;
+}
+.formButton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}

@@ -1,0 +1,9 @@
+.diferencial{
+    margin-top: 3em;
+    padding: 3em;
+    color: white;
+    background-color: #2f4885 ;
+}
+.diferencial > div > span{
+    font-weight: bold;
+}

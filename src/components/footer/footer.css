@@ -1,7 +1,14 @@
 .footer{
     margin-top: 1rem;
+    padding: 2em;
     background-color: black;
     color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: stretch;
+}
+.rows{
     display: flex;
     flex-direction: column;
     justify-content: center;

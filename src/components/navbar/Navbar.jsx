@@ -46,11 +46,11 @@ const Navbar = () => {
             MARKET
           </NavLink>
         </div>
-        <div>
+        {/* <div>
           <button type="button" className="btn btn-primary navButtons">
             LogIn
           </button>
-        </div>
+        </div> */}
       </nav>
     </>
   );
